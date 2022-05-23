@@ -1,0 +1,8 @@
+body {
+  &.__next-auth-theme-auto {
+    --color-background: #ffffff!important;
+    .page {
+      background: #ffffff!important;
+    }
+  }
+}
